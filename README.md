@@ -1,3 +1,5 @@
+### NOTE: this repository is no longer maintained.
+
 # Yoti Ruby SDK
 
 [![Build Status](https://travis-ci.com/getyoti/yoti-ruby-sdk.svg?branch=master)](https://travis-ci.com/getyoti/yoti-ruby-sdk)
